@@ -1,6 +1,6 @@
 <?php
 header("Access-Control-Allow-Origin: https://pingv4.com");
-if ($_SERVER['HTTP_REFERER'] != "https://pingv4.com/") {
+if (isset($_SERVER['HTTP_REFERER']) != "https://pingv4.com/") {
     echo 'error';
     exit();
 }
