@@ -1,5 +1,5 @@
 # pingV4.com
-PingV4.com is a PHP and javascript-based online and open-source web site that helps you track access to your servers and the routes associated with those accesses.
+PingV4.com is a PHP, HTML and javascript-based online and open-source web site that helps you track access to your servers and the routes associated with those accesses.
 
 
 There are two different probe files. The file named pingV4.Probe.php has advanced features. The file named pingV4.ping.php has a simplified structure. We want you to host both probe files. 
