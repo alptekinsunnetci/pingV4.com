@@ -21,3 +21,15 @@ pingV4.Probe.php -> https://pingv4.com
 
 pingV4.ping.php -> https://pingv4.com/basic
 
+
+##You can activate the probe by opening a request through "issues."
+
+pingV4.Probe.php Probe Address: https://your-domain.com/pingV4.Probe.php
+
+pingV4.ping.php Probe Address: https://your-domain.com/pingV4.ping.php
+
+Sponsoring Company: Your-Domain LLC
+
+Sponsoring Company Website: http://your-domain.com
+
+
